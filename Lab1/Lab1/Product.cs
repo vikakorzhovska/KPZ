@@ -31,6 +31,17 @@ namespace Lab1
             Price = new Money(totalCents / 100, totalCents % 100, Price.Currency);
         }
 
+        public void IncreaseQuantity(int amount, DateTime deliveryDate)
+        {
+            Quantity += amount;
+            LastDeliveryDate = deliveryDate;
+        }
+
+        public void DecreaseQuantity(int amount)
+        {
+            Quantity = Math.Max(0, Quantity - amount);
+        }
+
         public override string ToString()
         {
             return $"{Name} ({Unit}): {Price}, Кількість: {Quantity}, Остання поставка: {LastDeliveryDate.ToShortDateString()}";

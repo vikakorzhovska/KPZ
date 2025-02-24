@@ -18,9 +18,9 @@ namespace Lab1
         public void RemoveProduct(string productName, int quantity)
         {
             var product = products.Find(p => p.Name == productName);
-            if (product != null && product.Quantity >= quantity)
+            if (product != null)
             {
-                product = new Product(product.Name, product.Unit, product.Price, product.Quantity - quantity, product.LastDeliveryDate);
+                product.DecreaseQuantity(quantity);
             }
         }
 
@@ -30,6 +30,11 @@ namespace Lab1
             {
                 Console.WriteLine(product);
             }
+        }
+
+        public Product FindProduct(string name)
+        {
+            return products.Find(p => p.Name == name);
         }
     }
 }
