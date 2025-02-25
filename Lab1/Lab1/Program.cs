@@ -13,11 +13,11 @@ class Program
         Money price2 = new Money(15, 00, "UAH");
         Product potato = new Product("Картопля", "кг", price2, 25, DateTime.Now);
 
-        Warehouse warehouse = new Warehouse();
+        IProductManager warehouse = new Warehouse();
         warehouse.AddProduct(apple);
         warehouse.AddProduct(potato);
 
-        Reporting report = new Reporting();
+        IReporting report = new Reporting();
 
         Console.WriteLine("Початковий стан складу:");
         report.InventoryReport(warehouse);

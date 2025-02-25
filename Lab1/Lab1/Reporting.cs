@@ -6,15 +6,19 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    internal class Reporting
+    internal class Reporting : IReporting
     {
-        public void InventoryReport(Warehouse warehouse)
+        public void InventoryReport(IProductManager warehouse)
         {
             Console.WriteLine("Інвентаризація складу:");
-            warehouse.ListProducts();
+            var products = warehouse.ListProducts(); 
+            foreach (var product in products)  
+            {
+                Console.WriteLine(product);
+            }
         }
 
-        public void RegisterOfGoodsReceipt(Warehouse warehouse, string productName, int quantity, DateTime deliveryDate)
+        public void RegisterOfGoodsReceipt(IProductManager warehouse, string productName, int quantity, DateTime deliveryDate)
         {
             var product = warehouse.FindProduct(productName);
             if (product != null)
@@ -24,7 +28,7 @@ namespace Lab1
             }
         }
 
-        public void RegisterOfShipmentOfGoods(Warehouse warehouse, string productName, int quantity)
+        public void RegisterOfShipmentOfGoods(IProductManager warehouse, string productName, int quantity)
         {
             var product = warehouse.FindProduct(productName);
             if (product != null && product.Quantity >= quantity)
@@ -38,4 +42,5 @@ namespace Lab1
             }
         }
     }
+
 }

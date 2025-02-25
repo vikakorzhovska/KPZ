@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    internal class Warehouse
+    internal class Warehouse : IProductManager
     {
         private List<Product> products = new List<Product>();
 
@@ -24,17 +24,14 @@ namespace Lab1
             }
         }
 
-        public void ListProducts()
-        {
-            foreach (var product in products)
-            {
-                Console.WriteLine(product);
-            }
-        }
-
         public Product FindProduct(string name)
         {
             return products.Find(p => p.Name == name);
+        }
+
+        public List<Product> ListProducts()  
+        {
+            return products;
         }
     }
 }
