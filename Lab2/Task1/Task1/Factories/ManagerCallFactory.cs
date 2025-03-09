@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Task1.Subscriptions;
+
+namespace Task1.Factories
+{
+    public class ManagerCallFactory : SubscriptionFactory
+    {
+        public override ISubscription CreateSubscription() => new PremiumSubscription();
+    }
+}
