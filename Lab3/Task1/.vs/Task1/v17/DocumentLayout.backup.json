@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|d:\\\u0443\u0440\u043E\u043A\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\lab3\\task1\\task1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|solutionrelative:task1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|d:\\\u0443\u0440\u043E\u043A\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\lab3\\task1\\task1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|solutionrelative:task1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|d:\\\u0443\u0440\u043E\u043A\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\lab3\\task1\\task1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|solutionrelative:task1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|d:\\\u0443\u0440\u043E\u043A\u0438\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\lab3\\task1\\task1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C337E2-9307-4001-8826-808EA040337B}|Task1\\Task1.csproj|solutionrelative:task1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,12 +34,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FileLoggerAdapter.cs",
               "DocumentMoniker": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileLoggerAdapter.cs",
               "RelativeDocumentMoniker": "Task1\\FileLoggerAdapter.cs",
-              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileLoggerAdapter.cs*",
-              "RelativeToolTip": "Task1\\FileLoggerAdapter.cs*",
+              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "Task1\\FileLoggerAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T14:12:47.431Z",
@@ -47,12 +47,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileWriter.cs",
               "DocumentMoniker": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileWriter.cs",
               "RelativeDocumentMoniker": "Task1\\FileWriter.cs",
-              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileWriter.cs*",
-              "RelativeToolTip": "Task1\\FileWriter.cs*",
+              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\FileWriter.cs",
+              "RelativeToolTip": "Task1\\FileWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T14:12:29.846Z",
@@ -60,12 +60,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Logger.cs",
               "DocumentMoniker": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Logger.cs",
               "RelativeDocumentMoniker": "Task1\\Logger.cs",
-              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Logger.cs*",
-              "RelativeToolTip": "Task1\\Logger.cs*",
+              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Logger.cs",
+              "RelativeToolTip": "Task1\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T14:12:09.49Z",
@@ -77,8 +77,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Program.cs*",
-              "RelativeToolTip": "Task1\\Program.cs*",
+              "ToolTip": "D:\\\u0423\u0440\u043E\u043A\u0438\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\labs\\Lab3\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T14:11:43.938Z",
