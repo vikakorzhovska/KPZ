@@ -1,0 +1,15 @@
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\bin\Debug\net8.0\Task1.exe
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\bin\Debug\net8.0\Task1.dll
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.dll
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Уроки\Конструювання програмного забезпечення\labs\Lab4\Task1\Task1\obj\Debug\net8.0\ref\Task1.dll
