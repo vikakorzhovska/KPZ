@@ -1,6 +1,7 @@
 ﻿using Task5;
 using Task5.Observer;
 using Task5.Core;
+using Task5.Strategy;
 var div = new LightElementNode("div", "block", false);
 div.CssClasses.Add("container");
 
@@ -32,3 +33,9 @@ button.AddEventListener("click", tooltip);
 
 Console.WriteLine(button.OuterHTML());
 button.TriggerEvent("click");
+
+var fileImage = new LightImageNode("image.jpg", new FileImageLoadStrategy());
+Console.WriteLine(fileImage.OuterHTML());
+
+var networkImage = new LightImageNode("https://example.com/image.jpg", new NetworkImageLoadStrategy());
+Console.WriteLine(networkImage.OuterHTML());
