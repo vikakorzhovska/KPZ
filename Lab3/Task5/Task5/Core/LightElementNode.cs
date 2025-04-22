@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Task5.Observer;
 
-namespace Task5
+namespace Task5.Core
 {
     internal class LightElementNode : LightNode
     {
@@ -13,7 +14,7 @@ namespace Task5
         public bool SelfClosing { get; set; }
         public List<string> CssClasses { get; set; } = new List<string>();
         public List<LightNode> Children { get; set; } = new List<LightNode>();
-
+        private Subject _subject = new Subject();
         public LightElementNode(string tagName, string displayType, bool selfClosing)
         {
             TagName = tagName;
@@ -59,6 +60,15 @@ namespace Task5
             }
 
             return innerHtml;
+        }
+        public void AddEventListener(string eventType, IEventListener listener)
+        {
+            _subject.Subscribe(eventType, listener);
+        }
+
+        public void TriggerEvent(string eventType)
+        {
+            _subject.Notify(eventType);
         }
     }
 }
