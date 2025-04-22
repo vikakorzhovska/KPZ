@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task5
+namespace Task5.Core
 {
     public abstract class LightNode
     {

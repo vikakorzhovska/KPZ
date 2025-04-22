@@ -1,5 +1,6 @@
 ﻿using Task5;
-
+using Task5.Observer;
+using Task5.Core;
 var div = new LightElementNode("div", "block", false);
 div.CssClasses.Add("container");
 
@@ -23,3 +24,11 @@ div.AddChild(h1);
 div.AddChild(ul);
 
 Console.WriteLine(div.OuterHTML());
+
+var button = new LightElementNode("button", "inline", false);
+var tooltip = new Tooltip();
+
+button.AddEventListener("click", tooltip);
+
+Console.WriteLine(button.OuterHTML());
+button.TriggerEvent("click");
